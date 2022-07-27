@@ -7,3 +7,4 @@ import com.spring.boardweb.entity.User;
 public interface UserRepository extends JpaRepository<User, String> {
 
 }
+ 
